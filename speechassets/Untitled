@@ -1,0 +1,51 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "IntentFive",
+      "samples": [
+        "yes i have"
+      ],
+      "slots": []
+    },
+    {
+      "name": "IntentFour",
+      "samples": [
+        "youre that smart"
+      ],
+      "slots": []
+    },
+    {
+      "name": "IntentOne",
+      "samples": [
+        "let me explain"
+      ],
+      "slots": []
+    },
+    {
+      "name": "IntentThree",
+      "samples": [
+        "but if there can be no arrangement then we are at an impasse"
+      ],
+      "slots": []
+    },
+    {
+      "name": "IntentTwo",
+      "samples": [
+        "perhaps an arrangement can be reached"
+      ],
+      "slots": []
+    }
+  ]
+}

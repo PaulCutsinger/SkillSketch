@@ -11,7 +11,7 @@ For starter ideas see:
 https://github.com/PaulCutsinger/SkillSketch
 
 example of a skill that will say back any slot: https://github.com/PaulCutsinger/SkillSketch/tree/master/reflector/Debug
-example of alternate way to build the script sketch skill: 
+example of alternate way to build the script sketch skill: https://github.com/PaulCutsinger/SkillSketch/blob/master/src/alternate-index.js
 
 # Testing Dialog Management
 Here is the ARN for a lambda function that will say back the intents and slots

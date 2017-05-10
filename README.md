@@ -1,4 +1,5 @@
 # SkillSketch
+https://www.youtube.com/watch?v=EZSx3zNZOaU
 
 # Testing Dialog Management
 Here is the ARN for a lambda function that will say back the intents and slots
